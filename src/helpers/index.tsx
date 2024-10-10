@@ -1,0 +1,1 @@
+export const getNewId = (): string => Date.now().toString();
